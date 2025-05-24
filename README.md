@@ -1,1 +1,1 @@
-It's mi frst repository, eklmn
+This is a repository for SkyPro's homework on Version Control Systems
